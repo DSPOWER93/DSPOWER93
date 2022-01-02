@@ -1,6 +1,6 @@
 
 <h1 align="left">Hi 👋, I'm Mohammed</h1>
-<h3 align="left">Working as Sr. Business Analyst with 3+ Years experience in Data Science</h3>
+<h4 align="left">Working as Sr. Business Analyst with 3+ Years experience in Data Science. Have worked in domain of CRM, E-gaming & Cloud Services</h4>
 
 ________________________________________________________________________________________________________________________________________________
 ### 👀 We can connect on <br/>
@@ -93,10 +93,11 @@ ________________________________________________________________________________
 
 
 
-
+________________________________________________________________________________________________________________________________________________
 ### **Some of my Works**
 
-
+- #### [Insincere Question Classifier through API](https://github.com/DSPOWER93/quora-insincere)
+- #### [Washington House Price Web Application](https://github.com/DSPOWER93/Washington-house-price)
 <!---
 DSPOWER93/DSPOWER93 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
