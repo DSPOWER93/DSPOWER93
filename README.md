@@ -96,8 +96,11 @@ ________________________________________________________________________________
 ________________________________________________________________________________________________________________________________________________
 ### **Some of my Works**
 
-- #### [Insincere Question Classifier through API](https://github.com/DSPOWER93/quora-insincere)
+- #### [Inappropriate Question Classifier through API](https://github.com/DSPOWER93/quora-insincere)
+  The Inappropriate question API aims to identify questions that are asked with intent of having insincere perpespective in form of scores.
 - #### [Washington House Price Web Application](https://github.com/DSPOWER93/Washington-house-price)
+  It is a Python Web based application that estimates price of real estate in washington based on user requirement. The Application predicts estimated price with view of property location on map. 
+  
 <!---
 DSPOWER93/DSPOWER93 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
