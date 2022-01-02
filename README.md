@@ -18,7 +18,7 @@ ________________________________________________________________________________
 
 ________________________________________________________________________________________________________________________________________________
 ### **Skills**
-- Machine Learning Deep Learning
+- Machine Learning & Deep Learning
 - Model/API Deploymnet
 - Advance Statistics
 - Data Mining & Visualization
