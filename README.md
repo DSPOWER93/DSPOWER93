@@ -42,9 +42,9 @@ ________________________________________________________________________________
             src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/512px-HTML5_logo_and_wordmark.svg.png"
             alt="" width="60" height="60" /> </a>
 
-<a href="" target="_blank" title ="TensorFlow"> 
+<a href="https://www.tensorflow.org/" target="_blank" title ="TensorFlow"> 
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Tensorflow_logo.svg/1200px-Tensorflow_logo.svg.png" alt="python" width="58" height="58" /> </a>&nbsp;
-<a href="" target="_blank" title ="Flask"> <img
+<a href="https://flask.palletsprojects.com/en/2.0.x/" target="_blank" title ="Flask"> <img
             src="https://www.probytes.net/wp-content/uploads/2018/10/flask-logo-png-transparent.png"
             alt="" width="50" height="62" /> </a>&nbsp;
 <a href="https://getbootstrap.com/" target="_blank" title ="BootStrap"> <img
