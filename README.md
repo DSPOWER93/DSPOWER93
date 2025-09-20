@@ -1,29 +1,20 @@
 
-<h1 align="left">Hi 👋, I'm Mohammed</h1>
-<h4 align="left">Working as Sr. Business Analyst with 3+ Years experience in Data Science. Have worked in domain of CRM, E-gaming & Cloud Services</h4>
+<h1 align="left">Hi 👋, I'm Mohammed Taher</h1>
+<h5 align="left">Working Senior Data Scientist with 6+ years of experience across healthcare and gaming. Specialized in designing and deploying production-grade machine-learning systems with ML-Ops best practices and Generative AI capabilities to accelerate delivery and elevate user outcomes.</h5>
 
 ________________________________________________________________________________________________________________________________________________
 ### 👀 We can connect on <br/>
 [![Mohammed](https://img.shields.io/badge/Linkedin-blue?style=flat&logo=Linkedin&labelColor=blue)](https://www.linkedin.com/in/mohammed-taher-13934a51/)
 [![Mohammed](https://img.shields.io/badge/Gmail-white?style=flat&logo=gmail&labelColor=white)](mailto:md786.52@gmail.com)
-[![Mohammed](https://img.shields.io/badge/Instagram-white?style=flat&logo=Instagram&labelColor=white)](https://www.instagram.com/mdboy93/)
-________________________________________________________________________________________________________________________________________________
-### 🌱 I’m currently learning ...
-
-- **Web Scraping**
-- **Docker + AWS ECS**
-________________________________________________________________________________________________________________________________________________
-### 🚀 I’m giving a shot on ...
-- Kaggle Competition [Jigsaw Toxic comment Severity](https://www.kaggle.com/c/jigsaw-toxic-severity-rating)
-
+[![Mohammed](https://img.shields.io/badge/Instagram-white?style=flat&logo=Instagram&labelColor=white)]([https://www.instagram.com/mdboy93/](https://www.instagram.com/__mozay/))
 ________________________________________________________________________________________________________________________________________________
 ### **Skills**
-- Machine Learning & Deep Learning
-- Model/API Deploymnet
-- Advance Statistics
-- Data Mining & Visualization
-- RDBMS Database with ETL
-
+- ML-Ops
+- AWS
+- Rest API
+- Deep Learning - NLP
+- Statistical Modeling
+- Github Actions
 ________________________________________________________________________________________________________________________________________________
 ### **Languages, Frameworks & Tools**
 
@@ -93,15 +84,3 @@ ________________________________________________________________________________
 
 
 
-________________________________________________________________________________________________________________________________________________
-### **Some of my Works**
-
-- #### [Inappropriate Question Classifier through API](https://github.com/DSPOWER93/quora-insincere)
-  The Inappropriate question API aims to identify questions that are asked with intent of having insincere perpespective in form of scores.
-- #### [Washington House Price Web Application](https://github.com/DSPOWER93/Washington-house-price)
-  It is a Python Web based application that estimates price of real estate in washington based on user requirement. The Application predicts estimated price with view of property location on map. 
-  
-<!---
-DSPOWER93/DSPOWER93 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
