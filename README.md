@@ -3,7 +3,7 @@
 <h5 align="left">Working Senior Data Scientist with 6+ years of experience across healthcare and gaming. Specialized in designing and deploying production-grade machine-learning systems with ML-Ops best practices and Generative AI capabilities to accelerate delivery and elevate user outcomes.</h5>
 
 ________________________________________________________________________________________________________________________________________________
-### 👀 We can connect on <br/>
+### 👀 Connect with me on <br/>
 [![Mohammed](https://img.shields.io/badge/Linkedin-blue?style=flat&logo=Linkedin&labelColor=blue)](https://www.linkedin.com/in/mohammed-taher-13934a51/)
 [![Mohammed](https://img.shields.io/badge/Gmail-white?style=flat&logo=gmail&labelColor=white)](mailto:md786.52@gmail.com)
 [![Mohammed](https://img.shields.io/badge/Instagram-white?style=flat&logo=Instagram&labelColor=white)]([https://www.instagram.com/mdboy93/](https://www.instagram.com/__mozay/))
